@@ -1,1 +1,10 @@
-A compiler based on a given particular language (C like) specifications is built using the concepts of compiler construction. 
+# Compiler-Construction
+
+The project was built as a part of partial fulfillment of the course Compiler Construction in BITS Pilani.
+
+It has been been implemented in a pipeline manner with stages consisting of:
+
+- Lexer
+- Parser
+- AST generation
+- Typechecking & Semantic Analysis
